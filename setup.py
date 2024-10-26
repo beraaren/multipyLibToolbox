@@ -2,10 +2,10 @@ from setuptools import setup, find_packages
 
 setup(
     name="my_python_package",
-    version="0.1.0",
+    version="0.0.01",
     author="Bera",
-    author_email="your-email@example.com",
-    description="A simple Python package example",
+    author_email="beraerentutkun04@gmail.com",
+    description="Python toolbox library for non-coders and low-coders",
     long_description=open("README.md", "r").read(),
     long_description_content_type="text/markdown",
     url="https://github.com/your-username/my_python_package",

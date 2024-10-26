@@ -1,1 +1,4 @@
-# burada aşağıdaki dosyalarda kulanılan importlar olacak
+# buraya ne yazsam bilemnedim 
+
+def __init__():
+    print("naberlan yavşak")

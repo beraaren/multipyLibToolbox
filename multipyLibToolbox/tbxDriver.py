@@ -57,3 +57,4 @@ class tbxDriver():
         driver.get(baseUrl)
         sleep(sleep_time)
         return [{"text":i.text, "id":i.get_attribute("matchid")} for i in driver.find_elements(By.XPATH, '//tr[@class="tds"]')]
+    
