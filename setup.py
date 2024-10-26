@@ -8,7 +8,7 @@ setup(
     description="Python toolbox library for non-coders and low-coders",
     long_description=open("README.md", "r").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/your-username/my_python_package",
+    url="https://github.com/beraaren/multipyLibToolbox.git",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",

@@ -13,7 +13,7 @@ While each function could be adjusted for individual projects, including extensi
 1. using whith pip :
 
    ```bash
-   pip install git+https://github.com/your-repo/multi-purpose-code-repo.git
+   pip install https://github.com/beraaren/multipyLibToolbox.git
    ```
 2. You can now import
 
@@ -27,7 +27,7 @@ While each function could be adjusted for individual projects, including extensi
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-repo/multi-purpose-code-repo.git
+   git clone https://github.com/beraaren/multipyLibToolbox.git
    cd multi-purpose-code-repo
    ```
 2. Explore the categories and locate the function you need. Use the general search feature within the repo to find specific functions quickly.
