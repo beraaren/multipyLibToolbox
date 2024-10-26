@@ -13,7 +13,7 @@ While each function could be adjusted for individual projects, including extensi
 1. using whith pip :
 
    ```bash
-   pip install https://github.com/beraaren/multipyLibToolbox.git
+   pip install git+https://github.com/beraaren/multipyLibToolbox.git
    ```
 2. You can now import
 
